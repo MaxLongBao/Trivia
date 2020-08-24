@@ -1,9 +1,11 @@
 import React from 'react';
+import Topics from '../topics';
 
 const Main = (props) => {
   return (
     <div>
-      hi
+      Trivia App
+      <Topics />
     </div>
   )
 };
