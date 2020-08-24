@@ -2,7 +2,7 @@ import React from 'react';
 import Topics from '../topics';
 import Level from '../level';
 
-const Main = (props) => {
+const Main = () => {
   return (
     <div>
       Trivia App
