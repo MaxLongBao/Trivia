@@ -5,7 +5,7 @@ const Topic = (props) => {
     <div>
       <form>
         <label>
-          Choose your topic
+          Choose your topic:
           <select>
             <option value='science'>Science and Nature</option>
             <option value='sports'>Sports</option>
