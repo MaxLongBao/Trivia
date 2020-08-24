@@ -1,6 +1,7 @@
 import React from 'react';
 import Topics from '../topics';
 import Level from '../level';
+import Question from '../question';
 
 const Main = () => {
   return (
@@ -8,6 +9,7 @@ const Main = () => {
       Trivia App
       <Topics />
       <Level />
+      <Question />
     </div>
   )
 };
