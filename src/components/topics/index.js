@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Topic = (props) => {
+const Topic = () => {
   return(
     <div>
       <form>
