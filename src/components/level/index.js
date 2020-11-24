@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Level = (props) => {
+const Level = () => {
   return(
     <div>
       <form>
